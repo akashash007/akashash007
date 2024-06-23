@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash S</h1>
 <h3 align="center">India-based frontend wizard weaving web wonders</h3>
 
-<img src="https://giphy.com/embed/12K8GGWstl229G" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashash007" alt="akashash007" /></a> </p>
 
