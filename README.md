@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash S</h1>
 <h3 align="center">India-based frontend wizard weaving web wonders</h3>
 
+<iframe src="https://giphy.com/embed/12K8GGWstl229G" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-luffy-12K8GGWstl229G">via GIPHY</a></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashash007" alt="akashash007" /></a> </p>
 
 - 🔭 I’m currently working as Front-end Developer **K-Teq Solutions**
